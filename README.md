@@ -1,6 +1,6 @@
-GoHappy
+Cruiser
 
-GoHappy is the mental fitness and HR layer for delivery workers—helping drivers stay calm, supported, and motivated in high-pressure gig work.
+Gruiser is the mental fitness and HR layer for delivery workers—helping drivers stay calm, supported, and motivated in high-pressure gig work.
 
 Overview
 
@@ -8,9 +8,9 @@ This project is designed to solve the HR Problem by providing a in house team. I
 
 Key Features
 
-Feature 1 – Go happy staff to note incoming problems including Incoming complaints from drivers
+Feature 1 – Cruiser staff to note incoming problems including Incoming complaints from drivers
 
-Feature 2 – Updates from restaurants sent to developers and Go Happy Staff
+Feature 2 – Updates from restaurants sent to developers and Cruiser Staff
 
 Feature 3 – Having the developers add new ideas to the app every so often
 
