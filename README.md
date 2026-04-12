@@ -1,6 +1,6 @@
 Cruiser
 
-Gruiser is the mental fitness and HR layer for delivery workers—helping drivers stay calm, supported, and motivated in high-pressure gig work.
+Cruiser is the mental fitness and HR layer for delivery workers—helping drivers stay calm, supported, and motivated in high-pressure gig work.
 
 Overview
 
@@ -12,20 +12,21 @@ Feature 1 – Cruiser staff to note incoming problems including Incoming complai
 
 Feature 2 – Updates from restaurants sent to developers and Cruiser Staff
 
+Feature 2 – Updates from restaurants sent to developers and Cruiser
 Feature 3 – Having the developers add new ideas to the app every so often
 
 Live Demo:
-(https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1)
+(https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1](https://cruiser-road-calm.lovable.app/)
 
 Installation
 
 Clone the repository:
 
-git clone https://github.com/davidolivo5999/Gohappy.git
+git clone https:https://github.com/davidolivo5999/Cruiser
 
 Navigate into the project folder:
 
-cd GoHappy
+cd Cruiser
 
 Install dependencies:
 
