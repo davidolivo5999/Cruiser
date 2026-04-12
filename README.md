@@ -10,6 +10,8 @@ Key Features
 
 Feature 1 – Cruiser staff to note incoming problems including Incoming complaints from drivers
 
+Feature 2 – Updates from restaurants sent to developers and Cruiser Staff
+
 Feature 2 – Updates from restaurants sent to developers and Cruiser
 Feature 3 – Having the developers add new ideas to the app every so often
 
