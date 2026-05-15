@@ -16,7 +16,7 @@ Feature 2 – Updates from restaurants sent to developers and Cruiser
 Feature 3 – Having the developers add new ideas to the app every so often
 
 Live Demo:
-[(https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1](https://cruiser-road-calm.lovable.app/)](https://cruiser-road-calm.lovable.app/checkin)
+[[(https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1](https://cruiser-road-calm.lovable.app/)](https://cruiser-road-calm.lovable.app/checkin)](https://cruiser-road-calm.lovable.app)
 
 Installation
 
